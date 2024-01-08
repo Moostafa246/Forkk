@@ -1,7 +1,7 @@
-# CafeFlow Web App
+# Forkk App
 
 ## Overview
-CafeFlow is a web application designed to revolutionize the dining experience. It streamlines the process of discovering local cafes and restaurants, making table reservations, and accessing digital menus. For restaurant owners, CafeFlow serves as a powerful tool for efficient table management, increasing visibility, and gaining valuable customer insights.
+Forkk is a web application designed to revolutionize the dining experience. It streamlines the process of discovering local cafes and restaurants, making table reservations, and accessing digital menus. For restaurant owners, Forkk serves as a powerful tool for efficient table management, increasing visibility, and gaining valuable customer insights.
 
 ## Features
 
